@@ -1,2 +1,2 @@
-Derste işlenen react kodu ve ödevi uygulamasına ait kodlar ve wesite linki ==> 
-https://yigitcan-ucar-react-project.vercel.app
+Web Teknolojileri ve Programlama dersinin 3. ödevidir.
+İlgili web sitesi: https://dogukanonderr.vercel.app/
