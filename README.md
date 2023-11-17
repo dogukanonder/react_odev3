@@ -1,2 +1,2 @@
-# react_odev3
-Web Teknolojileri ve Programlama 3. ödevi.
+Derste işlenen react kodu ve ödevi uygulamasına ait kodlar ve wesite linki ==> 
+https://yigitcan-ucar-react-project.vercel.app
